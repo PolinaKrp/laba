@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\student\Desktop\Лабы по РТ\Lab1_RT\Lab1_RT\Source.cpp(33,20): warning C4129: *: неизвестная escape-последовательность
+C:\Users\student\Desktop\Лабы по РТ\Lab1_RT\Lab1_RT\Source.cpp(74,58): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  Lab1_RT.vcxproj -> C:\Users\student\Desktop\Лабы по РТ\Lab1_RT\x64\Debug\Lab1_RT.exe
